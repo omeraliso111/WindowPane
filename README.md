@@ -10,6 +10,6 @@ WindowPane is an application that allows you to control the positions of a colle
 ![After](/images/after.png)
 
 # How It Works
-Attach windows by right clicking on a pane and clicking "Attach: <Window Name>"
-Split panes in half by right clicking on pane and clicking "Split Pane (Vertical/Horizontal)"
-Resize panes by dragging their edges
+1. Attach windows by right clicking on a pane and clicking "Attach: Window Name"
+2. Split panes in half by right clicking on pane and clicking "Split Pane (Vertical/Horizontal)"
+3. Resize panes by dragging their edges
