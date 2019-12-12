@@ -4,10 +4,10 @@ A window position management application
 WindowPane is an application that allows you to control the positions of a collection of windows by attaching them to panes within WindowPane. Tired of resizing and moving windows around half your day? Try WindowPane.
 
 ## Before
-![Before](/images/before.png)
+![Before](/images/Before.PNG)
 
 ## After
-![After](/images/after.png)
+![After](/images/After.PNG)
 
 # How It Works
 1. Attach windows by right clicking on a pane and clicking "Attach: Window Name"
